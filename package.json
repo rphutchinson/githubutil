@@ -5,6 +5,7 @@
   "author": "rphutchinson <rphutchinson@gmail.com",
   "dependencies":{
   	"request": "*",
-  	"parse-links": "*"
+  	"parse-links": "*",
+  	"async": "0.2.10"
   }
 }
